@@ -1,0 +1,27 @@
+2025-09-30 16:11:15,269 - INFO - Initialized TravelPlanner instance
+2025-09-30 16:11:15,269 - INFO - City set successfully
+2025-09-30 16:11:15,269 - INFO - Interest also set successfully..
+2025-09-30 16:11:39,810 - INFO - Initialized TravelPlanner instance
+2025-09-30 16:11:39,810 - INFO - City set successfully
+2025-09-30 16:11:39,810 - INFO - Interest also set successfully..
+2025-09-30 16:11:39,810 - INFO - Gnerating itineary for Coimbatore and for interests : ['Cars', 'History', 'Nature', 'Temple']
+2025-09-30 16:11:41,339 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-30 16:11:41,384 - INFO - Itinerary generated successfully..
+2025-09-30 16:12:04,372 - INFO - Initialized TravelPlanner instance
+2025-09-30 16:12:04,372 - INFO - City set successfully
+2025-09-30 16:12:04,372 - INFO - Interest also set successfully..
+2025-09-30 16:12:04,372 - INFO - Gnerating itineary for Coimbatore and for interests : ['Cars', 'History', 'Nature', 'Temple']
+2025-09-30 16:12:05,199 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-30 16:12:05,200 - INFO - Itinerary generated successfully..
+2025-09-30 16:12:27,850 - INFO - Initialized TravelPlanner instance
+2025-09-30 16:12:27,850 - INFO - City set successfully
+2025-09-30 16:12:27,850 - INFO - Interest also set successfully..
+2025-09-30 16:12:27,850 - INFO - Gnerating itineary for Chennai and for interests : ['History', 'Nature', 'Temple']
+2025-09-30 16:12:28,521 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-30 16:12:28,521 - INFO - Itinerary generated successfully..
+2025-09-30 16:12:59,878 - INFO - Initialized TravelPlanner instance
+2025-09-30 16:12:59,878 - INFO - City set successfully
+2025-09-30 16:12:59,878 - INFO - Interest also set successfully..
+2025-09-30 16:12:59,878 - INFO - Gnerating itineary for Coimbatore and for interests : ['History', 'Nature', 'Temple']
+2025-09-30 16:13:00,715 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-30 16:13:00,716 - INFO - Itinerary generated successfully..
